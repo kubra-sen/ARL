@@ -1,5 +1,5 @@
-# ARL
-Association Rule Learning
+# ARL - Association Rule Learning
+
 In this project the goal is to find the associations between products with Apriori Algorithm and generate rules based on these associations.
 
 # Dataset
