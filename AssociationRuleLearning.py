@@ -167,6 +167,7 @@ if __name__ == '__main__':
     # Extracting Association Rules
     rules = create_rules(df, country='Germany')
 
+    #Making recommendations
     arl_recommender(rules, 21987, 2)
 
 
